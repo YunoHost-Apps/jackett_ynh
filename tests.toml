@@ -15,7 +15,7 @@ test_format = 1.0
     [default.curl_tests]
     # ugly hack to make tests enable cookies,
     # otherwise UI says 'Enable cookies' and fails
-    default.logged_on_sso = "true"
+    default.logged_on_sso = 1
 
     # -------------------------------
     # Commits to test upgrade from
