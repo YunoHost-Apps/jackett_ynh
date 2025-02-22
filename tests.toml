@@ -8,17 +8,17 @@ test_format = 1.0
     # Tests to run
     # ------------
 
-    [default.curl_tests]
-    # ugly hack to make tests enable cookies,
-    # otherwise UI says 'Enable cookies' and fails
-    default.logged_on_sso = true
-
     # -------------------------------
     # Default args to use for install
     # -------------------------------
+
+    [default.curl_tests]
+    # ugly hack to make tests enable cookies,
+    # otherwise UI says 'Enable cookies' and fails
+    default.logged_on_sso = "true"
 
     # -------------------------------
     # Commits to test upgrade from
     # -------------------------------
 
-    # test_upgrade_from.dbcf6acc1bcdb4bd3b2d8e57a48f5e1c7594d8c7.name = "Upgrade from 0.22.1425~ynh1"
+    test_upgrade_from.dbcf6acc1bcdb4bd3b2d8e57a48f5e1c7594d8c7.name = "Upgrade from 0.22.1425~ynh1"
