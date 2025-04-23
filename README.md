@@ -4,13 +4,13 @@ It shall NOT be edited by hand.
 -->
 
 <h1>
-  <img src="https://raw.githubusercontent.com/YunoHost/apps/master/logos/jackett.png" width="32px" alt="Logo of Jackett">
+  <img src="https://raw.githubusercontent.com/YunoHost/apps/main/logos/jackett.png" width="32px" alt="Logo of Jackett">
   Jackett, packaged for YunoHost
 </h1>
 
 API support for your favorite torrent trackers
 
-![Version: 0.22.1722~ynh1](https://img.shields.io/badge/Version-0.22.1722~ynh1-rgba(0,150,0,1)?style=for-the-badge)
+[![Version: 0.22.1815~ynh1](https://img.shields.io/badge/Version-0.22.1815~ynh1-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/jackett/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/jackett"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
@@ -18,6 +18,8 @@ API support for your favorite torrent trackers
 </div>
 
 ## 📦 Developer info
+
+[![Automatic tests level](https://apps.yunohost.org/badge/cilevel/jackett)](https://ci-apps.yunohost.org/ci/apps/jackett/)
 
 🛠️ Upstream Jackett repository: <https://github.com/Jackett/Jackett>
 
