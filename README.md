@@ -10,7 +10,7 @@ It shall NOT be edited by hand.
 
 API support for your favorite torrent trackers
 
-[![Version: 0.22.2343~ynh1](https://img.shields.io/badge/Version-0.22.2343~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/jackett/)
+[![Version: 0.22.2349~ynh1](https://img.shields.io/badge/Version-0.22.2349~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/jackett/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/jackett"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
